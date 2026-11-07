@@ -1,0 +1,15 @@
+{
+  "name": "reelspan",
+  "owner": { "name": "Reelspan", "email": "support@reelspan.com" },
+  "metadata": { "description": "Reelspan plugins for Claude Code" },
+  "plugins": [
+    {
+      "name": "reelspan",
+      "source": "./",
+      "version": "0.1.0",
+      "description": "Publish, schedule and track posts on 22 social networks: skills, agents and the Reelspan MCP server.",
+      "category": "productivity",
+      "homepage": "https://reelspan.com/docs/claude-code"
+    }
+  ]
+}

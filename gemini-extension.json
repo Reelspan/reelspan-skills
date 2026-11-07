@@ -1,0 +1,12 @@
+{
+  "name": "reelspan",
+  "version": "0.1.0",
+  "description": "Publish, schedule and track posts on 22 social networks.",
+  "mcpServers": {
+    "reelspan": {
+      "httpUrl": "https://api.reelspan.com/mcp",
+      "headers": { "Authorization": "Bearer $REELSPAN_API_KEY" }
+    }
+  },
+  "contextFileName": "skills/reelspan/SKILL.md"
+}
