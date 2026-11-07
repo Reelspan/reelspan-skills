@@ -1,7 +1,7 @@
 # Reelspan skills and plugin
 
 Agent skills for [Reelspan](https://reelspan.com): publish, schedule and track posts on TikTok, YouTube, Instagram,
-Facebook, X, Threads, LinkedIn, Pinterest, Bluesky, Reddit and 12 more networks from Claude Code, Claude, Codex,
+Facebook, X, Threads, LinkedIn, Pinterest, Bluesky, Reddit and more from Claude Code, Claude, Codex,
 Cursor, Gemini CLI or any agent that reads `SKILL.md` files.
 
 This one repository is:

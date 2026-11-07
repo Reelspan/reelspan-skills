@@ -1,7 +1,7 @@
 {
   "name": "reelspan",
   "version": "0.1.0",
-  "description": "Publish, schedule and track posts on 22 social networks.",
+  "description": "Publish, schedule and track posts on every major social network.",
   "mcpServers": {
     "reelspan": {
       "httpUrl": "https://api.reelspan.com/mcp",

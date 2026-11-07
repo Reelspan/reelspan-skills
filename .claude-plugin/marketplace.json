@@ -7,7 +7,7 @@
       "name": "reelspan",
       "source": "./",
       "version": "0.1.0",
-      "description": "Publish, schedule and track posts on 22 social networks: skills, agents and the Reelspan MCP server.",
+      "description": "Publish, schedule and track posts on every major social network: skills, agents and the Reelspan MCP server.",
       "category": "productivity",
       "homepage": "https://reelspan.com/docs/claude-code"
     }
