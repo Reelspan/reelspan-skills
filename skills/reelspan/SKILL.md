@@ -1,6 +1,6 @@
 ---
 name: reelspan
-description: Publish, schedule and track social media posts with the Reelspan API (TikTok, YouTube, Instagram, Facebook, X, Threads, LinkedIn, Pinterest, Bluesky, Reddit and 12 more). Use when the user wants to post or schedule a video, photos, a carousel, text or a PDF to social networks, check whether a post went out, retry a failed post, see scheduled posts or post history, or read social analytics through Reelspan.
+description: Publish, schedule and track social media posts with the Reelspan API (TikTok, YouTube, Instagram, Facebook, X, Threads, LinkedIn, Pinterest, Bluesky, Reddit and more). Use when the user wants to post or schedule a video, photos, a carousel, text or a PDF to social networks, check whether a post went out, retry a failed post, see scheduled posts or post history, or read social analytics through Reelspan.
 ---
 
 # Reelspan
