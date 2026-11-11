@@ -1,8 +1,8 @@
 # Networks: what each takes
 
 Network ids: `tiktok`, `youtube`, `instagram`, `facebook`, `x`, `threads`, `linkedin`, `pinterest`, `bluesky`,
-`reddit`, `google_business`, `telegram`, `discord`, `slack`, `mastodon`, `nostr`, `lemmy`, `devto`, `hashnode`,
-`wordpress`, `whop`, `listmonk`, and `sandbox` (accepts everything, publishes nothing).
+`reddit`, `google_business`, `telegram`, `discord`, `slack`, `mastodon`, `lemmy`, `devto`, `hashnode`,
+`wordpress`, and `sandbox` (accepts everything, publishes nothing).
 
 `GET https://api.reelspan.com/platforms` (no key needed) lists every network, whether it is open, and what it takes.
 
@@ -26,10 +26,9 @@ Network ids: `tiktok`, `youtube`, `instagram`, `facebook`, `x`, `threads`, `link
 
 | Network | Notes |
 |---|---|
-| Mastodon, Nostr, Lemmy | Text, photos, video; Lemmy posts to the community set when it was connected (`lemmy_title`, `lemmy_nsfw`) |
+| Mastodon, Lemmy | Text, photos, video; Lemmy posts to the community set when it was connected (`lemmy_title`, `lemmy_nsfw`) |
 | Discord, Slack, Telegram | Posts to the connected channel or chat; Telegram takes PDFs too |
 | Dev.to, Hashnode, WordPress | Articles: `title` is the headline, `description` the body (Markdown); Hashnode keeps up to 5 tags |
-| Whop, Listmonk | Community post and newsletter campaign |
 
 ## Per-network overrides
 
