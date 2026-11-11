@@ -58,7 +58,6 @@ Base URL `https://api.reelspan.com`, auth `Authorization: Bearer <API key>`. Ful
 | GET | `/v1/analytics/{profile_username}` | Account totals per network (followers, views, posts…) |
 | GET | `/v1/analytics/{profile_username}/history` | Account numbers per day (followers, views…) |
 | GET | `/v1/post-analytics/{request_id}` | Stats for the posts of one publish request |
-| POST | `/v1/ai/video-captions` | Write captions for each network from a video |
 | POST | `/v1/posts/photos` | Publish one photo or a carousel |
 | POST | `/v1/posts/document` | Publish a PDF document to LinkedIn |
 | POST | `/v1/posts/text` | Publish a text-only post |
